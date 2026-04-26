@@ -1,7 +1,7 @@
 from weather_service import WeatherService
 from weather_data import WeatherData
 
-API_KEY = "6233b2b89d3db2343fe684edd439aabe"  # zameni svojim OpenWeather API ključem
+API_KEY = "Your Api Key"  # zameni svojim OpenWeather API ključem
 
 class WeatherApp:
     def __init__(self, api_key):

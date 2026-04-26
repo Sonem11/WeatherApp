@@ -5,7 +5,10 @@ This project demonstrates object-oriented programming (OOP) in Python combined w
 We use the OpenWeather API to fetch real-time weather data and display it in a simple console application.
 
 ## Visual Representation
-![Weather Icon](https://upload.wikimedia.org/wikipedia/commons/6/65/Weather_icon_-_sunny.png)
+![Weather App Icon](weather_icon.png)
+
+## Example Output
+
 
 ## Example Output
 Enter city name: Belgrade

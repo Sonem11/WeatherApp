@@ -7,13 +7,10 @@ We use the OpenWeather API to fetch real-time weather data and display it in a s
 ## Visual Representation
 ![Weather App Icon](weather_icon.png)
 
-## Example Output
-
 
 ## Example Output
 Enter city name: Belgrade
 Belgrade: 18°C, clear sky
-
 
 
 ## Technologies Used
